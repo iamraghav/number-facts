@@ -1,0 +1,14 @@
+{
+  "name": "numberfacts",
+  "version": "1.0.0",
+  "description": "a small app which tells a random fact associated with that number ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "raghav"
+  ],
+  "author": "raghav",
+  "license": "MIT"
+}
